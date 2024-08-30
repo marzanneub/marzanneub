@@ -7,10 +7,10 @@
 <h3 align="center">Online judges:</h3>
 <p align="center">
 <a href="https://codeforces.com/profile/marzan3100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="marzan3100" height="30" width="40" /></a>
-</p>
 <a href="https://www.codechef.com/users/marzanneub" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="marzanneub" height="30" width="40" /></a>
 <a href="https://atcoder.jp/users/marzanneub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="marzanhussainde" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/marzanhussainde" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/7151918?s=200&v=4" alt="marzanhussainde" height="30" width="40" /></a>
+</p>
 
 
 <h3 align="center">Languages and Tools:</h3>
